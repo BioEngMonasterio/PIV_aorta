@@ -1,5 +1,15 @@
 # PLEASE NOTE: The data supporting this study will be deposited in this repository upon publication of the paper. This statement will be removed upon acceptance of the manuscript.
 
+```
+***    *****    *
+*  *   *        *
+***    *        *
+*  *   *        *
+***    *****    *****
+```
+
+ --------- The associated DOI of this pre-release is: DOI: 10.5281/zenodo.22711600.  ---------
+
 # PIV_aorta
 Repository of results of the PIV analysis includes three folders:
 1) PIV_results_data: phase-averaged mean velocities, and their phase-averaged standard deviations for thirty time instances along the cardiac cycle;
